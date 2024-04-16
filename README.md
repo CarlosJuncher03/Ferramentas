@@ -78,9 +78,40 @@ Este guia inicial apresenta um conjunto de ferramentas de administração e mode
   - Facilita a colaboração em tempo real.
   - Gera scripts SQL.
 
----
+# Dashboard Tools
+
+### Power BI
+
+- **Uso**: Ferramenta de análise de negócios da Microsoft que fornece visualizações interativas e recursos de business intelligence com uma interface simples para usuários finais criarem seus próprios relatórios e dashboards.
+- **Funcionalidades**:
+  - Integração com várias fontes de dados.
+  - Relatórios interativos e dashboards.
+  - Capacidades de modelagem de dados.
+  - Colaboração e publicação na nuvem.
+- **Mais Informações**: [Site Oficial do Power BI](https://powerbi.microsoft.com/)
+
+### Metabase
+
+- **Uso**: Metabase é uma ferramenta de BI open source que facilita perguntas sobre dados e compartilhamento de insights.
+- **Funcionalidades**:
+  - Interface de usuário intuitiva para exploração de dados.
+  - Suporte para diversas fontes de dados.
+  - Visualizações ricas e dashboards customizáveis.
+  - Possibilidade de embedar dashboards em outras aplicações.
+- **Mais Informações**: [Site Oficial do Metabase](https://www.metabase.com/)
+
+### Looker
+
+- **Uso**: Looker é uma plataforma de dados que faz parte do Google Cloud, proporcionando insights através de data analytics e visualizações de dados.
+- **Funcionalidades**:
+  - Análises avançadas com SQL e LookML.
+  - Visualizações de dados e dashboards interativos.
+  - Integrações com o ecossistema do Google Cloud.
+  - Controle de acesso e segurança integrados.
+- **Mais Informações**: [Site Oficial do Looker](https://looker.com/)
+
 
 **Continua**
-
+---
 Vou estar adicionando mais ferramentas futuramente
 
